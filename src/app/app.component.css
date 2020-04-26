@@ -1,0 +1,50 @@
+#logocon{background-color:#000000;width:100%;max-width:1400px;margin-top:52px;position:static}
+#DeltaSiteLogo{padding-top:19px}
+#layoutheader{padding:10px 15px}
+#layoutheader{padding:0}
+#layoutheader{max-width:1400px;position:relative;width:100%;z-index:1}
+
+ #herotext p{padding-left:3px;}
+.heroimagecon{display:block}
+.heroimagecon img{width:100%;max-height:300px}
+.imagetext{color:#000000;height:100%;left:0;max-width:1400px;position:absolute;top:0;width:100%;z-index:4}
+.noimgdesc {background-color: #080808;color: #fbf8f8;overflow:hidden;z-index:8;background:transparent}
+.noimgdesc h1{font-size:26px}
+.noimgdesc{bottom:0;display:block;left:15px;opacity:0.95;padding:10px 35px;position:absolute;width:65%}
+.noimgdesc{width:65%;bottom:0px;left:15px;opacity:.95;max-height:200px}
+
+#drheader {width:100%;max-width:1400px;margin:0 auto;}
+#drheader li, .menucontainer li, #searchcontainerusercontrol li{list-style-type:none}
+#drheader {width:100%;max-width:1400px;margin:0 auto;}
+#Fixedtopbar {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    height: 54px;
+    max-width: 1400px;
+    background-color: #000000;
+    margin: 0 auto;
+    margin-top: -2px;
+}
+#Fixedtopbar #leftlist a{color:#fff; display:inline;}
+#Fixedtopbar .dricon {
+    font-size: 21px;
+    vertical-align: middle;
+}
+.padding-left-10 {padding-left: 10px;}
+.margin-left-10{margin-left:10px}
+.margin-right-5{margin-right:5px}
+#rightlist .tt-dropdown-menu span{padding-right:3px}
+#Fixedtopbar #rightlist li:last-child{padding-right:0}
+#rightlist span.hidden-xs{padding-right:5px}
+#Fixedtopbar #leftlist li,#Fixedtopbar #rightlist li{border-right:0 solid #000000;}
+#Fixedtopbar #leftlist > li{float:left;height:54px;padding:15px 15px 0;font-size:18px;font-family:'Open_Sans_Bold'}
+.username {
+    color: #fff;
+    line-height: 52px;
+    float: left;
+    margin-left: 848px;
+}
+
+.footercontainer{max-width:1400px;margin:0 auto;font-family:"Open_Sans_Regular"}
+.footercontainer h4{color:#000000;font-size:16px;}
